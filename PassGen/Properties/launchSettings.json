@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PassGen (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PassGen (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
